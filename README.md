@@ -1,2 +1,2 @@
 # kanjiresource
-this Repository countain initial resources that might be required in the early stages of my project. 
+Since modern education is based on inquiry-based thinking, the advancement in technology is/should be replicated in learning. pedagogy is, without doubt, a complicated area of practice. accumulation of knowledge and experiences is making teaching more efficient although there are some ambiguities in what an efficient educational system represents. this is an empirical age and collect enough data to develop a perfect system we need to resort to the machines. teaching and learning online is one step towards the creation of virtual Aristotle for each and every child in the world.
